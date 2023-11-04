@@ -13,14 +13,14 @@ Laravel. O banco de dados utilizado será o PostgreSQL.
     <img align="center" width="50" alt="html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" width="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  
+    <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
    <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
    <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">    
 </div> 
  
 <br>
 
-**📌Etapa 01:** Na primeira página, apresentamos a interface de login, solicitando ao usuário seu nome e senha, além de requerer sua concordância com os termos do site. Posteriormente, oferecemos opções para que o usuário possa acessar nossa "plataforma" ou prosseguir com o processo de cadastro.<br>
+**📌Frontend:** <br>
 <img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/e7eb0edf-1bc5-4634-97ea-90747f284e97"> <p>
 
 **📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
