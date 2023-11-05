@@ -1,4 +1,4 @@
-<h1 align="center"> Página de Cadastro 👨🏻‍💻 </h1>
+<h1 align="center"> Desafio UITEC 👨‍💻 </h1>
 
 **⛳Desafio:** Neste desafio, você será responsável por desenvolver um aplicativo de CRUD (Create,
 Read, Update, Delete) de produtos, utilizando uma arquitetura desacoplada entre o
@@ -9,7 +9,7 @@ Laravel. O banco de dados utilizado será o PostgreSQL.
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center"> Tecnologias utilizadas👨‍💻 </h1>
+    <h1 align="center"> Tecnologias utilizadas ⚙️   </h1>
     <img align="center" width="50" alt="html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" width="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -20,20 +20,19 @@ Laravel. O banco de dados utilizado será o PostgreSQL.
  
 <br>
 
-**📌Frontend:** <br>
-<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/e7eb0edf-1bc5-4634-97ea-90747f284e97"> <p>
+**📌Etapa 01: Foi criado um formulário para adcionar os podutos em seguida outro formulário, porém com o CRUD para dar possibilidades ao usuário** <br>
+<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Desafio-projeto-UItec/blob/main/frontend/home.png?raw=true"> <p>
+<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Desafio-projeto-UItec/blob/main/frontend/pglist.html.png?raw=true"> <p>
 
-**📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
-<img align="center" width="900" alt="Cadastro"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/614da28c-2b49-48ee-8651-933cdfa993d9"> <p>
+**📌Etapa 02:** Criamos o banco de dados
+<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Desafio-projeto-UItec/blob/main/db/banco.png?raw=true"> <p>
 
-**📌Etapa 03:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
-<img align="center" width="900"  alt="Dados"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/0a3f7745-2d69-4932-852a-300ff0a50e8f"> <p>
 
-**🔍Detalhes:**
+**📌Etapa 03:** Essa etapa foi focar no backend
 
-<img align="center" width="300"  alt="senha"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/db33d8ba-e1b0-43f9-924b-03a78a94140f">
-<img align="center" width="300"  alt="senha"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/1a2933a6-034a-4695-9db3-e4f3b98a96e0"> <p>
-🔍Uma pequena particularidade no campo de senha é que, ao clicar no ícone de um "olho", o usuário tem a possibilidade de visualizar o que está sendo digitado no campo de senha.<p>
+ <h1 align="center"> Minhas considerações  👨‍🏫  </h1>
+Gostei muito do desafio proposto e desde já agradeço pela oportunidade. Embora este projeto não tenha sido entregue com 100% de precisão, empenhei-me para oferecer uma apresentação de qualidade. Foi a minha primeira experiência com Angular, TypeScript e PostgreSQL, e enfrentei desafios ao trabalhar com essas tecnologias devido à minha falta de experiência. Infelizmente, não consegui fazer o projeto funcionar perfeitamente, mas acredito que pude demonstrar as competências que adquiri desde o início da minha jornada no mundo da programação. Estou convencido de que, com um pouco mais de experiência nas linguagens solicitadas, poderia ter alcançado o objetivo com sucesso. Gostaria de expressar meu agradecimento mais uma vez e reforçar meu interesse em fazer parte deste time.
+
 
 
   <h1 align="center"> Contatos </h1>
